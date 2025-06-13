@@ -10,7 +10,7 @@ public class IfElseMystery1 {
         if (z <= x) {
             z = x + 1;
         } else {
-            z = z + 9;
+            z = z + 9; // z = 13
         }
         if (z <= y) {
             y++;
@@ -30,5 +30,9 @@ public class IfElseMystery1 {
 /* Before running the code, type your answer below.
 
 TODO: Write output here
+13 21
+5 5
+6 5
+7 11
 
 Then, click the green play button to check your work. */

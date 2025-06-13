@@ -19,5 +19,17 @@ public class NumberTotal {
 /* Before running the code, type your answer below.
 
 TODO: Write output here
+24 1
+23 2
+22 3
+21 4
+20 5
+19 6
+18 7
+17 8
+16 9
+15 10
+14 11
+13 12
 
 Then, click the green play button to check your work. */
